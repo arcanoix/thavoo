@@ -16,6 +16,7 @@ Find out more about me & feel free to connect with me here:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Php](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Laravel](https://img.shields.io/badge/-laravel-C51A4A?style=flat-square&logo=laravel)
