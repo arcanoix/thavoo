@@ -8,6 +8,7 @@ Find out more about me & feel free to connect with me here:
 [![Instagram Badge](https://img.shields.io/badge/-thavoo84-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thavoo84/)](https://instagram.com/thavoo84)
 [![Youtube Badge](https://img.shields.io/badge/-thavoo-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/GustavoHerrera1984)](https://www.youtube.com/c/GustavoHerrera1984)
 [![Gmail Badge](https://img.shields.io/badge/-gustavoh.2312@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoh.2312@gmail.com)](mailto:gustavoh.2312@gmail.com)
+[![Twitter: thavoo84](https://img.shields.io/twitter/follow/thavoo84?style=social)](https://twitter.com/thavoo84)
 
 
 ## ⚡ Technologies
@@ -41,7 +42,7 @@ Find out more about me & feel free to connect with me here:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=thavoo&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thavoo&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=thavoo&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thavoo&hide=TeX&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thavoo.thavoo)
