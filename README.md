@@ -1,6 +1,6 @@
 ### Hi coders 👋
 
-My name is Gustavo Herrera i'm developer fullstack web. It's my profile github.
+My name is Gustavo Herrera i'm developer fullstack web and app mobile. It's my profile github.
 
 Find out more about me & feel free to connect with me here:
 
